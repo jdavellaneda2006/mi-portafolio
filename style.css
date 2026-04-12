@@ -80,7 +80,10 @@ body {
    background-color: #DE1637; 
    color: white; 
   }
-
+.secondary-btn{
+  background-color: #DE1637; 
+   color: white; 
+}
 
 .about {
   background-color: #DE1D2D;
