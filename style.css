@@ -308,6 +308,7 @@ line-height:1.6;
 
 
 @media (max-width:768px){
+ 
  .project_container{
   flex-direction:column;
   text-align:center;
