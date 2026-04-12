@@ -260,26 +260,6 @@ line-height:1.6;
   height:auto;
   display:block;
 }
-
-
-
-@media (max-width:768px){
-
-.project_container{
-  flex-direction:column;
-  text-align:center;
-  gap:30px;
-}
-
-.project_content{
-  width:100%;
-}
-
-.project__img{
-  width:50%;
-  height:auto;
-  display:block;
-}
 .contact {
   background-color: #d30e31; 
   color: white;
@@ -325,3 +305,25 @@ line-height:1.6;
   background-color: #1a1a1a;
   color: #fff;
 }
+
+
+@media (max-width:768px){
+ .project_container{
+  flex-direction:column;
+  text-align:center;
+  gap:30px;
+}
+
+.project_content{
+  width:100%;
+}
+
+.project__img{
+  width:50%;
+  height:auto;
+  display:block
+}
+
+}
+
+
