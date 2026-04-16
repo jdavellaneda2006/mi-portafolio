@@ -89,6 +89,8 @@ body {
 
 .primary-btn { 
   background-color: #DE1637;
+   color: white;
+  border: 1px solid white;
    color: white;}
 border: 1px solid white;
    }
